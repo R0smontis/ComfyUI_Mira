@@ -1,4 +1,9 @@
 ## Change Logs      
+#### 2026.07.30 Unreleased
+・Update the WAI Illustrious character list for Arknights, Arknights: Endfield, Wuthering Waves, and Zenless Zone Zero
+・Add missing tags and correct Simplified Chinese character names against current official rosters
+
+
 #### 2025.12.30 Ver 0.5.6.0        
 ・Add `WD Tagger`        
 ・・WD Tagger by SmilingWolf https://huggingface.co/SmilingWolf       
