@@ -1,5 +1,8 @@
 ## Change Logs      
 #### 2026.07.31 Unreleased
+・Add 14 classic-anime character tags across Evangelion, Cowboy Bebop, Steins;Gate, and K-ON, verified against Chinese reference pages and exact positive-count model tags
+
+#### 2026.07.31 Unreleased
 ・Add 8 Genshin Impact base-character tags and one NIKKE base-character tag verified against BWiki roster pages and exact positive-count model tags
 
 #### 2026.07.31 Unreleased
