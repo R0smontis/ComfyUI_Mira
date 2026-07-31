@@ -12,6 +12,9 @@ from .Tagger import cl_tagger, camie_tagger, wd_tagger
 from .wai_illustrious_character_select import llm_prompt_gen_node, illustrious_character_select, illustrious_character_select_en, local_llm_prompt_gen
 from .image_saver.image_saver import ImageSaver
 
+# 注册 web 目录（拼音首字母搜索扩展所在），由 ComfyUI 自动挂载并加载
+WEB_DIRECTORY = "web"
+
 def __init__(self):
     pass
     
