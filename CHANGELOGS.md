@@ -1,5 +1,8 @@
 ## Change Logs      
 #### 2026.07.31 Unreleased
+・Add 31 Blue Archive base-character tags using mainland-China roster names and exact positive-count model tags
+
+#### 2026.07.31 Unreleased
 ・Import 161 canonical Arknights character tags from the public AnimaDex character catalogue with bilingual operator-roster evidence
 
 #### 2026.07.31 Unreleased
