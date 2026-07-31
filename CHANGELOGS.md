@@ -1,5 +1,8 @@
 ## Change Logs      
 #### 2026.07.31 Unreleased
+・Add 8 Genshin Impact base-character tags and one NIKKE base-character tag verified against BWiki roster pages and exact positive-count model tags
+
+#### 2026.07.31 Unreleased
 ・Add 11 NIKKE base-character tags verified against the BWiki character pages and exact positive-count model tags
 
 #### 2026.07.31 Unreleased
