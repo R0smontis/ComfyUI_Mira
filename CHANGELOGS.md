@@ -1,5 +1,8 @@
 ## Change Logs      
 #### 2026.07.31 Unreleased
+・Import 161 canonical Arknights character tags from the public AnimaDex character catalogue with bilingual operator-roster evidence
+
+#### 2026.07.31 Unreleased
 ・Correct Wuthering Waves character localization `黛妮娅` to the official Simplified Chinese name `达妮娅`; keep the verified model tag `denia (wuthering waves)`
 
 
